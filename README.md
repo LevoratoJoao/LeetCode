@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+| 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [Explanation](./NumberOfSubstrings/README.md) | Medium |
 | 3208 | [Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/) | [Explanation](./NumberOfAlternatingGroups/README.md) | Medium |
 | 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) | [Explanation](./MinimumRecolors/README.md) | Easy |
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | [Explanation](./FindMissingAndRepeatedValues/README.md) | Easy |
