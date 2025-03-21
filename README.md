@@ -16,6 +16,7 @@
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | [Explanation](./FindMissingAndRepeatedValues/README.md) | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Explanation](./PlusOne/README.md) | Easy |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Explanation](./WordPattern/README.md) | Easy |
+| 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Explanation](./FindAllAnagrams/README.md) | Medium |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Explanation](./GroupAnagrams/README.md) | Medium |
-
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Explanation](./ValidAnagram/README.md) | Easy |
 

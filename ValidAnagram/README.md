@@ -33,7 +33,7 @@ def isAnagram(s: str, t: str) -> bool:
         hash_s[i] -= 1
     for i in hash_s:
         s_value = hash_s[i]
-        if t_value != 0:
+        if s_value != 0:
             return False
     return True
 ```
